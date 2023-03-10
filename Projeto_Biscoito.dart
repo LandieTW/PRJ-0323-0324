@@ -26,9 +26,9 @@ class _HomeState extends State<Home> {
   var frases = "Clique no botão para quebrar o biscoito";
 
 // ignore: non_constant_identifier_names
-  var IMG1 = ("imagens/naruto.png");
+  var IMG1 = ("imagens/nome_da_imagem_1.png");
 // ignore: non_constant_identifier_names
-  var IMG2 = ("imagens/One-Piece.png");
+  var IMG2 = ("imagens/nome_da_imagem_2.png");
 
   void quebrarbiscoito() {
     // Aqui definimos uma variável número com um valor randomico.
