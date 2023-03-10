@@ -1,0 +1,3 @@
+# PRJ-0323-0324 - Projeto
+That's my first tentative to do a project in Dart language. 
+It was kinda revision of what I was learning in my studies that age...
